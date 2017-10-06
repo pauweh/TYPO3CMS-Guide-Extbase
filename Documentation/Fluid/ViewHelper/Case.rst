@@ -38,6 +38,7 @@ Deprecation
 
 The usage of this ViewHelper for the default case in the following manner
 is deprecated and will be removed in TYPO3 v9. Use `DefaultCaseViewHelper` instead.
+Hope there is a update-modul for this change.
 
 .. highlight:: xml
 
